@@ -1,24 +1,34 @@
-### Merhaba , Ben Hasan Hüseyin 👋
+<div align="center">
+<h1>Hasan Hüseyin</h1>
+</div>
+<div>
 
-### C# , Java , Html , CSS , JavaScript ve bazı dillerdende azda olsa biliyorum.
+```cs
+using Me;
+using Me.Languages;
 
-### https://discord.gg/UFeHhst6f8 bu linkten Can Feda'nın Resmi Discord Sunucusuna gelebilirsiniz.
+public class MyLife 
+{
+  Me me;
+  
+  public static void Main() 
+  {
+    me = new Me("Hasan H");
+    while (me.alive) 
+    {
+      me.eat();
+      me.doCoding(Languages.CSharp);
+      me.sleep();
+    }
+  }
+  
+}
+```
+</div>
 
-### Ve bu linkten "https://github.com/Hasan-H-KARAKAYA/Can-Feda-Launcher" Can Feda Launcher'ı İndirebilirsiniz.
+<div align="center">
 
-### 
-
-<!--
-**Hasan-H-KARAKAYA/Hasan-H-Karakaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Generic badge](https://img.shields.io/badge/engine-Unity-darkgray.svg)
+![Generic badge](https://img.shields.io/badge/language-CSharp-blue.svg)
+<br>
+</div>
