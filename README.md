@@ -3,7 +3,7 @@
 </div>
 <div>
 
-  ```java
+```java 
 import me;
 import myLife;
 
@@ -21,9 +21,7 @@ public class MyLife {
   
     }
 }
-  
-  
-  
+  ```
   
 ```cs
 using Me;
