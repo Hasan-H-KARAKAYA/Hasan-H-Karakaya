@@ -1,4 +1,10 @@
 <div align="center">
+<h1>Bozkurt Games Studios</h1>
+</div>
+<div>
+
+
+<div align="center">
 <h1>Hasan Hüseyin</h1>
 </div>
 <div>
