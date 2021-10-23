@@ -30,5 +30,6 @@ public class MyLife
 
 ![Generic badge](https://img.shields.io/badge/engine-Unity-darkgray.svg)
 ![Generic badge](https://img.shields.io/badge/language-CSharp-blue.svg)
+  ![Generic badge](https://img.shields.io/badge/language-Java-blue.svg)
 <br>
 </div>
