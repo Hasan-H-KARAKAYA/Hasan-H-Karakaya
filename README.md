@@ -6,6 +6,7 @@
 ```java 
 import me;
 import myLife;
+import Me.Languages;
 
 public class MyLife {
 
@@ -15,7 +16,7 @@ public class MyLife {
     while (me.alive) 
     {
       me.eat();
-      me.doCoding(Languages.CSharp);
+      me.doCoding(Languages.Java);
       me.sleep();
     }
   
@@ -50,6 +51,7 @@ public class MyLife
 
 ![Generic badge](https://img.shields.io/badge/engine-Unity-darkgray.svg)
 ![Generic badge](https://img.shields.io/badge/language-CSharp-blue.svg)
-  ![Generic badge](https://img.shields.io/badge/language-Java-blue.svg)
+ ![Generic badge](https://img.shields.io/badge/language-Java-blue.svg)
+![Generic badge](https://img.shields.io/badge/İntelj-İdea-blue.svg)
 <br>
 </div>
