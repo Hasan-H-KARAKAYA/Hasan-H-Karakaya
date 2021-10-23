@@ -12,7 +12,7 @@ public class MyLife {
 
     public static void main(String[] args) {
 
-         me = new Me("Hasan H");
+    me = new Me("Hasan H");
     while (me.alive) 
     {
       me.eat();
@@ -49,7 +49,7 @@ public class MyLife
 
 <div align="center">
 
-![Generic badge](https://img.shields.io/badge/Game-Can Feda-red.svg)
+![Generic badge](https://img.shields.io/badge/Game-Can-Feda-red.svg)
 ![Generic badge](https://img.shields.io/badge/engine-Unity-gray.svg)
 ![Generic badge](https://img.shields.io/badge/language-CSharp-blue.svg)
 ![Generic badge](https://img.shields.io/badge/language-Java-green.svg)
