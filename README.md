@@ -18,7 +18,7 @@ public class MyLife {
 
     public static void main(String[] args) {
 
-    me = new Me("Hasan H");
+    me = new me("Hasan H");
     while (me.alive) 
     {
       me.eat();
