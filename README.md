@@ -55,8 +55,8 @@ public class MyLife
 
 <div align="center">
 
-![Generic badge](https://img.shields.io/badge/Game-red.svg)
-![Generic badge](https://img.shields.io/badge/engine-Unity-gray.svg)
+
+![Generic badge](https://img.shields.io/badge/Game%20Engine-Unity-blue)
 ![Generic badge](https://img.shields.io/badge/language-CSharp-blue.svg)
 ![Generic badge](https://img.shields.io/badge/language-Java-green.svg)
 
