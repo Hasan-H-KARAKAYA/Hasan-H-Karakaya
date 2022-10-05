@@ -1,11 +1,11 @@
 <div align="center">
-<h1>Bozkurt Games Studios</h1>
+<h2>Bozkurt Games Studios</h2>
 </div>
 <div>
 
 
 <div align="center">
-<h1>Hasan Hüseyin</h1>
+<h3>Hasan Hüseyin KARAKAYA</h3>
 </div>
 <div>
 
