@@ -57,6 +57,7 @@ public class MyLife
 
 
 ![Generic badge](https://img.shields.io/badge/Game%20Engine-Unity-blue)
+![Generic badge](https://img.shields.io/badge/Favorite%20IDE-Visual%20Studio-brightgreen)
 ![Generic badge](https://img.shields.io/badge/language-CSharp-blue.svg)
 ![Generic badge](https://img.shields.io/badge/language-Java-green.svg)
 
