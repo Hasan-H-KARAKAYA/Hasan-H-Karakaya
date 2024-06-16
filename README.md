@@ -9,26 +9,6 @@
 </div>
 <div>
 
-```java 
-import me;
-import myLife;
-import Me.Languages;
-
-public class MyLife {
-
-    public static void main(String[] args) {
-
-    me = new Me("Hasan H");
-    while (me.alive) 
-    {
-      me.eat();
-      me.doCoding(Languages.Java);
-      me.sleep();
-    }
-  
-    }
-}
-  ```
   
 ```cs
 using Me;
