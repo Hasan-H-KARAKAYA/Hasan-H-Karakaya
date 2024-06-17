@@ -1,10 +1,4 @@
 <div align="center">
-<h2>Bozkurt Games Studios</h2>
-</div>
-<div>
-
-
-<div align="center">
 <h3>Hasan Hüseyin KARAKAYA</h3>
 </div>
 <div>
