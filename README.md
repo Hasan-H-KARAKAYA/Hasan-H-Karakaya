@@ -7,8 +7,8 @@
 
 ### 👨‍💻 About Me
 - 🎮 Passionate about **Game Development & Full-Stack Applications**  
-- 🛠️ Skilled in **Unity, C#, JavaScript, React Native**  
-- 💡 Interested in **WebRTC, WebSockets, AI, and Procedural Animations**  
+- 🛠️ Skilled in **Unity, C#, JavaScript**  
+- 💡 Interested in **WebRTC, WebSockets, AI**  
 - 📚 Always learning & experimenting with new technologies  
 
 ---
