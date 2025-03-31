@@ -1,44 +1,70 @@
-<h1 align="center">Hasan Hüseyin Karakaya</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7D33D&center=true&vCenter=true&width=435&lines=Hello%2C+World!;I'm+Hasan+H%C3%BCseyin+Karakaya" />
+</h1>
+
 <p align="center">
-  <i>Game Developer | Full-Stack Enthusiast | Tech Explorer</i>
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" />
 </p>
 
 ---
 
 ### 👨‍💻 About Me
 - 🎮 Passionate about **Game Development & Full-Stack Applications**  
-- 🛠️ Skilled in **Unity, C#, JavaScript**  
-- 💡 Interested in **WebRTC, WebSockets, AI**  
-- 📚 Always learning & experimenting with new technologies  
+- 🛠️ Skilled in **Unity, C#, JavaScript, TypeScript**  
+- 💡 Interested in **WebRTC, WebSockets, AI, Networking & Backend Development**  
+- 🚀 Always experimenting with **new technologies & frameworks**  
+- 🎯 **Goal:** Building high-performance applications with clean code principles  
 
 ---
 
 ### ⚙️ Tech Stack
+#### 🎮 Game Development:
 <p align="center">
-  <img src="https://img.shields.io/badge/Game%20Engine-Unity-blue?logo=unity&logoColor=white" />
-  <img src="https://img.shields.io/badge/IDE-Visual%20Studio-purple?logo=visualstudio&logoColor=white" />
-  <img src="https://img.shields.io/badge/Code-C%23-blue?logo=csharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/Code-JavaScript-yellow?logo=javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Web-React%20Native-61DAFB?logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/Database-SQL%20&%20Firebase-orange?logo=firebase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Game%20Engine-Unity-000000?logo=unity&logoColor=white" />
+  <img src="https://img.shields.io/badge/Language-C%23-239120?logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Shader-HLSL-5C2D91?logo=visualstudiocode&logoColor=white" />
+</p>
+
+#### 💻 Full-Stack Development:
+<p align="center">
+  <img src="https://img.shields.io/badge/Frontend-React%20Native-61DAFB?logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Backend-Node.js-43853D?logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/WebSockets-Socket.io-010101?logo=socket.io&logoColor=white" />
+</p>
+
+#### 🗄️ Databases:
+<p align="center">
+  <img src="https://img.shields.io/badge/Database-SQL-4479A1?logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/NoSQL-Firebase-FFCA28?logo=firebase&logoColor=black" />
+</p>
+
+#### ⚙️ Tools & Other:
+<p align="center">
+  <img src="https://img.shields.io/badge/IDE-Visual%20Studio-5C2D91?logo=visualstudio&logoColor=white" />
+  <img src="https://img.shields.io/badge/Editor-VS%20Code-007ACC?logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Version%20Control-Git-F05032?logo=git&logoColor=white" />
 </p>
 
 ---
 
 ### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hasan-H-KARAKAYA&show_icons=true&theme=dark" height="165">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hasan-H-KARAKAYA&show_icons=true&theme=dark" height="165">
+  <img src="https://github-readme-stats.vercel.app/api?username=Hasan-H-KARAKAYA&show_icons=true&theme=radical" height="165">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hasan-H-KARAKAYA&theme=whatsapp-dark2" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hasan-H-KARAKAYA&layout=compact&theme=radical" height="165">
 </p>
 
 ---
 
 ### 📫 Connect with Me
 <p align="center">
-  <a href="https://github.com/hasanhkarakaya">
-    <img src="https://img.shields.io/badge/GitHub-HasanHKarakaya-181717?logo=github&logoColor=white" />
+  <a href="https://github.com/Hasan-H-KARAKAYA">
+    <img src="https://img.shields.io/badge/GitHub-Hasan%20H%20Karakaya-181717?logo=github&logoColor=white" />
   </a>
   <a href="mailto:hasankarakaya0341+github@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-red?logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/hasanhkarakaya">
+    <img src="https://img.shields.io/badge/LinkedIn-Hasan%20H%20Karakaya-0077B5?logo=linkedin&logoColor=white" />
   </a>
 </p>
