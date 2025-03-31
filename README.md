@@ -17,37 +17,49 @@
 
 ---
 
-### ⚙️ Tech Stack
-#### 🎮 Game Development:
+## ⚙️ Tech Stack  
+
+### 🎮 Game Development:
 <p align="center">
   <img src="https://img.shields.io/badge/Game%20Engine-Unity-000000?logo=unity&logoColor=white" />
   <img src="https://img.shields.io/badge/Language-C%23-239120?logo=csharp&logoColor=white" />
   <img src="https://img.shields.io/badge/Shader-HLSL-5C2D91?logo=visualstudiocode&logoColor=white" />
 </p>
 
-#### 💻 Full-Stack Development:
+### 🌐 Frontend Development:
 <p align="center">
-  <img src="https://img.shields.io/badge/Frontend-React%20Native-61DAFB?logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/Backend-Node.js-43853D?logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/WebSockets-Socket.io-010101?logo=socket.io&logoColor=white" />
+  <img src="https://img.shields.io/badge/Framework-React%20Native-61DAFB?logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-ES6+-yellow?logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=white" />
 </p>
 
-#### 🗄️ Databases:
+### 🛠 Backend & Networking:
+<p align="center">
+  <img src="https://img.shields.io/badge/Backend-Node.js-43853D?logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/WebRTC-008000?logo=webrtc&logoColor=white" />
+  <img src="https://img.shields.io/badge/WebSockets-Socket.io-010101?logo=socket.io&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST%20API-005571?logo=postman&logoColor=white" />
+</p>
+
+### 🗄 Databases & Cloud:
 <p align="center">
   <img src="https://img.shields.io/badge/Database-SQL-4479A1?logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/NoSQL-Firebase-FFCA28?logo=firebase&logoColor=black" />
 </p>
 
-#### ⚙️ Tools & Other:
+### 🛠 DevOps & Tools:
 <p align="center">
+  <img src="https://img.shields.io/badge/Version%20Control-Git-F05032?logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Container-Docker-2496ED?logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/IDE-Visual%20Studio-5C2D91?logo=visualstudio&logoColor=white" />
   <img src="https://img.shields.io/badge/Editor-VS%20Code-007ACC?logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Version%20Control-Git-F05032?logo=git&logoColor=white" />
 </p>
 
 ---
 
-### 📈 GitHub Stats
+## 📈 GitHub Stats  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Hasan-H-KARAKAYA&show_icons=true&theme=radical" height="165">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hasan-H-KARAKAYA&theme=whatsapp-dark2" height="165">
@@ -56,7 +68,7 @@
 
 ---
 
-### 📫 Connect with Me
+## 📫 Connect with Me  
 <p align="center">
   <a href="https://github.com/Hasan-H-KARAKAYA">
     <img src="https://img.shields.io/badge/GitHub-Hasan%20H%20Karakaya-181717?logo=github&logoColor=white" />
