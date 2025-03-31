@@ -23,12 +23,10 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Game%20Engine-Unity-000000?logo=unity&logoColor=white" />
   <img src="https://img.shields.io/badge/Language-C%23-239120?logo=csharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/Shader-HLSL-5C2D91?logo=visualstudiocode&logoColor=white" />
 </p>
 
 ### 🌐 Frontend Development:
 <p align="center">
-  <img src="https://img.shields.io/badge/Framework-React%20Native-61DAFB?logo=react&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-ES6+-yellow?logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=white" />
@@ -52,7 +50,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Version%20Control-Git-F05032?logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white" />
-  <img src="https://img.shields.io/badge/Container-Docker-2496ED?logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/IDE-Visual%20Studio-5C2D91?logo=visualstudio&logoColor=white" />
   <img src="https://img.shields.io/badge/Editor-VS%20Code-007ACC?logo=visualstudiocode&logoColor=white" />
 </p>
@@ -76,7 +73,7 @@
   <a href="mailto:hasankarakaya0341+github@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-red?logo=gmail&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/hasanhkarakaya">
+  <a href="https://www.linkedin.com/in/hasanhuseyinkarakaya">
     <img src="https://img.shields.io/badge/LinkedIn-Hasan%20H%20Karakaya-0077B5?logo=linkedin&logoColor=white" />
   </a>
 </p>
