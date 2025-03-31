@@ -68,7 +68,7 @@
 ## 📫 Connect with Me  
 <p align="center">
   <a href="https://github.com/hasban0">
-    <img src="https://img.shields.io/badge/GitHub-Hasan%20H%20Karakaya-181717?logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-hasban0-181717?logo=github&logoColor=white" />
   </a>
   <a href="mailto:hasankarakaya0341+github@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-red?logo=gmail&logoColor=white" />
