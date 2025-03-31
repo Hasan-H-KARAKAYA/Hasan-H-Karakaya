@@ -73,7 +73,4 @@
   <a href="mailto:hasankarakaya0341+github@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-red?logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/hasanhuseyinkarakaya">
-    <img src="https://img.shields.io/badge/LinkedIn-Hasan%20H%20Karakaya-0077B5?logo=linkedin&logoColor=white" />
-  </a>
 </p>
